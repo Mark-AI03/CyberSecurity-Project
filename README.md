@@ -100,7 +100,3 @@ This repository presents a practical cybersecurity lab project focused on **Phis
 | **Disable LLMNR & NBT-NS**  | Prevent responder-based hash capturing                                     |
 
 ---
-
-## 📁 Repository Structure
-
-
