@@ -25,10 +25,10 @@ This repository presents a practical cybersecurity lab project focused on **Phis
 
 ## 💻 Lab Environment
 
-| Component            | Description                           |
+| Component           | Description                           |
 |---------------------|---------------------------------------|
 | **Virtualization**  | VMware Workstation Pro                |
-| **Attacker VM**     | Kali Linux (2023 / 2025)              |
+| **Attacker VM**     | Kali Linux                            |
 | **Victim VM**       | Windows 7                             |
 | **Network**         | Local Area Network (LAN)              |
 
